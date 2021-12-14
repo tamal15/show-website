@@ -1,0 +1,29 @@
+.nav{
+    color:white;
+    text-decoration: none;
+    font-size: 27px;
+    font-weight: 600;
+    padding:12px;
+    margin:6px;
+}
+
+.backgrounds{
+    color:rebeccapurple
+}
+.drops-buttons{
+   font-size: 23px;
+   padding:8px;
+   margin-top: 5px;
+   color:white;
+}
+.use{
+    color:pink;
+    text-decoration: none;
+    font-size: 23px;
+    padding:12px;
+    margin:6px;
+}
+.log{
+    padding:5px;
+    margin-top: 5px;
+}
